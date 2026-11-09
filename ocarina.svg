@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="530" viewBox="0 0 800 530">
+<defs><linearGradient id="b" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1020"/><stop offset="1" stop-color="#1a1033"/></linearGradient></defs>
+<rect width="800" height="530" fill="url(#b)"/>
+<text x="48" y="80" font-family="Menlo,Consolas,monospace" font-size="16" fill="#8b949e">~/nxnative · Apple Silicon</text>
+<text x="48" y="140" font-family="Menlo,Consolas,monospace" font-size="24" fill="#e6edf3" opacity="0">$ ./run.sh --res 1080p --fps 60<animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.05;0.08;.95;1" dur="9s" repeatCount="indefinite"/></text>
+<text x="48" y="186" font-family="Menlo,Consolas,monospace" font-size="24" fill="#5eead4" opacity="0">[ ok ] native port booted on M2<animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.15;0.18;.95;1" dur="9s" repeatCount="indefinite"/></text>
+<text x="48" y="232" font-family="Menlo,Consolas,monospace" font-size="24" fill="#5eead4" opacity="0">[ ok ] 1080p · 60 fps<animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.25;0.28;.95;1" dur="9s" repeatCount="indefinite"/></text>
+<text x="48" y="278" font-family="Menlo,Consolas,monospace" font-size="24" fill="#5eead4" opacity="0">[ ok ] save + reload test<animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.35;0.38;.95;1" dur="9s" repeatCount="indefinite"/></text>
+<text x="48" y="324" font-family="Menlo,Consolas,monospace" font-size="24" fill="#f472b6" opacity="0">[ !! ] GPU hang in a cutscene<animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.45;0.48;.95;1" dur="9s" repeatCount="indefinite"/></text>
+<text x="48" y="370" font-family="Menlo,Consolas,monospace" font-size="24" fill="#e6edf3" opacity="0">$ python3 collect_logs.py<animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.55;0.58;.95;1" dur="9s" repeatCount="indefinite"/></text>
+<text x="48" y="416" font-family="Menlo,Consolas,monospace" font-size="24" fill="#fbbf24" opacity="0">→ crash log saved for review<animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.65;0.68;.95;1" dur="9s" repeatCount="indefinite"/></text>
+</svg>
