@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/hero.svg" width="100%" alt="Animated DNA helix over a data grid" />
+  <img src="./hero.svg" width="100%" alt="Animated DNA helix over a data grid" />
 </p>
 
 <hr />
@@ -47,7 +47,7 @@ const manan = {
 
 </td>
     <td width="45%" valign="top" align="center">
-      <img src="./assets/terminal.svg" width="100%" alt="Python session using Biopython, pandas and scikit-learn" />
+      <img src="./terminal.svg" width="100%" alt="Python session using Biopython, pandas and scikit-learn" />
     </td>
   </tr>
 </table>
@@ -98,7 +98,7 @@ const manan = {
 </p>
 
 <p align="center">
-  <img src="./assets/cells.svg" width="100%" alt="Machine learning × computational biology" />
+  <img src="./cells.svg" width="100%" alt="Machine learning × computational biology" />
 </p>
 
 <hr />
@@ -108,7 +108,7 @@ const manan = {
 <table>
   <tr>
     <td width="50%" valign="top" align="center">
-      <a href="https://mkhurana3.github.io/AushadhiTrack/"><img src="./assets/aushadhitrack.svg" width="100%" alt="AushadhiTrack login screen" /></a>
+      <a href="https://mkhurana3.github.io/AushadhiTrack/"><img src="./aushadhitrack.svg" width="100%" alt="AushadhiTrack login screen" /></a>
       <h3>💊 AushadhiTrack</h3>
       <p>Smart India Hackathon 2026 prototype. A medicine-integrity network for Jan Aushadhi Kendras, with role-based workspaces for coordinators, vendors and receivers, and QR-based receipt verification.</p>
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
@@ -119,7 +119,7 @@ const manan = {
       <a href="https://github.com/Mkhurana3/AushadhiTrack"><img src="https://img.shields.io/badge/📁%20Repo-30363D?style=flat" /></a>
     </td>
     <td width="50%" valign="top" align="center">
-      <a href="https://github.com/Mkhurana3/ocarinaforyou"><img src="./assets/ocarina.svg" width="100%" alt="Terminal log from the native port tests" /></a>
+      <a href="https://github.com/Mkhurana3/ocarinaforyou"><img src="./ocarina.svg" width="100%" alt="Terminal log from the native port tests" /></a>
       <h3>🎮 ocarinaforyou</h3>
       <p>Configuration, test scripts and documentation for running a native game port on an M2 MacBook Air at 1080p, including reproducing and logging a GPU hang for the upstream developers.</p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
