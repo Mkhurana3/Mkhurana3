@@ -55,7 +55,7 @@ _start:
 
 </td>
     <td width="45%" valign="top" align="center">
-      <img src="./terminal.svg" width="100%" alt="Python session using Biopython, pandas and scikit-learn" />
+      <img src="./terminal.svg" width="100%" alt="Python session training a neural network" />
     </td>
   </tr>
 </table>
@@ -107,7 +107,7 @@ _start:
 </p>
 
 <p align="center">
-  <img src="./cells.svg" width="100%" alt="Machine learning × computational biology" />
+  <img src="./cells.svg" width="100%" alt="Animated neural network: forward pass and backpropagation" />
 </p>
 
 <hr />
@@ -145,8 +145,10 @@ _start:
 ## ✦ github stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Mkhurana3&theme=dark&hide_border=true&background=0D1117&ring=F472B6&fire=F472B6&currStreakNum=58A6FF&currStreakLabel=F472B6&sideNums=58A6FF&sideLabels=58A6FF&dates=8B949E" alt="GitHub contribution streak" />
+  <img src="./stats.svg" width="100%" alt="GitHub activity: contributions, streaks, heatmap and weekly trend" />
 </p>
+
+<p align="center"><sub>auto-updated daily by a GitHub Action</sub></p>
 
 <hr />
 
