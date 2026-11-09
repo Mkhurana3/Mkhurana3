@@ -11,11 +11,11 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=900&color=F472B6&center=true&vCenter=true&width=720&lines=Machine+learning+for+biological+data;Data+science+%C2%B7+Python+%C2%B7+Biopython;B.Tech+CSE+%40+Amity+University+Noida" alt="Machine learning for biological data" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=900&color=F472B6&center=true&vCenter=true&width=720&lines=Machine+learning+for+biological+data;Data+science+%C2%B7+Python+%C2%B7+Biopython;Rust+%C2%B7+Python+%C2%B7+C" alt="Machine learning for biological data" />
 </p>
 
 <p align="center">
-  <img src="./hero.svg" width="100%" alt="Animated DNA helix over a data grid" />
+  <img src="./hero.svg" width="100%" alt="Animated DNA sequencer translating a gene" />
 </p>
 
 <hr />
@@ -26,23 +26,31 @@
   <tr>
     <td width="55%" valign="top">
 
-```javascript
-const manan = {
-  name:       "Manan Khurana",
-  github:     "Mkhurana3",
-  location:   "Delhi NCR, India",
-  university: "Amity University Noida",
-              // B.Tech CSE · 2026–2030
-  focus: [
-    "Machine Learning",
-    "Data Science",
-    "Computational Biology",
-  ],
-  open_to: [
-    "Research internships",
-    "Open-source collaboration",
-  ],
-};
+```asm
+; manan.asm · x86-64 · NASM
+
+section .data
+    name      db "Manan Khurana", 0
+    handle    db "Mkhurana3", 0
+    location  db "Delhi, India", 0
+
+    focus     db "Machine Learning", 0
+              db "Data Science", 0
+              db "Computational Biology", 0
+
+    open_to   db "Research internships", 0
+              db "Open-source collaboration", 0
+
+section .text
+    global _start
+
+_start:
+    lea   rdi, [rel focus]
+.loop:
+    call  read_papers
+    call  write_code
+    call  ship
+    jmp   .loop             ; never returns
 ```
 
 </td>
@@ -60,6 +68,7 @@ const manan = {
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
 </p>
