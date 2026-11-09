@@ -55,7 +55,7 @@ _start:
 
 </td>
     <td width="45%" valign="top" align="center">
-      <img src="./terminal.svg" width="100%" alt="Python session training a neural network" />
+      <img src="./terminal.svg" height="446" alt="Python session training a neural network" />
     </td>
   </tr>
 </table>
