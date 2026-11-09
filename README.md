@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:134e4a,100:2c5364&height=120&section=header" width="100%" alt="" />
+  <img src="./header.svg" width="100%" alt="Pixel-art ML lab: CRT monitor drawing a loss curve, neural network, server racks" />
 </p>
 
 <h1 align="center">✦ Manan Khurana</h1>
@@ -160,7 +160,5 @@ _start:
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:7a4a5e,100:c48b7a&height=110&section=footer" width="100%" alt="" />
+  <img src="./footer.svg" width="100%" alt="Pixel-art lab ending screen: microscope, DNA helix, sequencing readout — thanks for playing" />
 </p>
-
-<p align="center"><sub>✦ Manan Khurana · machine learning × computational biology ✦</sub></p>
