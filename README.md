@@ -130,7 +130,7 @@ _start:
     <td width="50%" valign="top" align="center">
       <a href="https://github.com/Mkhurana3/codon-shuffle"><img src="https://raw.githubusercontent.com/Mkhurana3/codon-shuffle/main/figures/02_fake_codes.png" width="100%" alt="Score of the real genetic code against 100,000 random codes" /></a>
       <h3>🧬 codon-shuffle</h3>
-      <p>Is the genetic code better than random? A reproduction of Haig &amp; Hurst (1991): we scored 100,000 random genetic codes on how much damage a single mutation does, and only 10 beat the real one. Plus an early AlphaFold follow-up on folded vs disordered protein regions. Built with <a href="https://github.com/antarahere">Antara</a>: I led the biology, she led the code.</p>
+      <p>Is the genetic code better than random? A reproduction of Haig &amp; Hurst (1991): we scored 100,000 random genetic codes on how much damage a single mutation does, and only 10 beat the real one. Plus an early AlphaFold follow-up on folded vs disordered protein regions. Built with <a href="https://github.com/antarahere">Antara</a>: I led the biology and worked on the code with her.</p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
       <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white" />
