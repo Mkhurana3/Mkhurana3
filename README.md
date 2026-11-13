@@ -117,12 +117,15 @@ _start:
 <table>
   <tr>
     <td width="50%" valign="top" align="center">
-      <a href="https://mkhurana3.github.io/AushadhiTrack/"><img src="./aushadhitrack.svg" width="100%" alt="AushadhiTrack login screen" /></a>
+      <a href="https://mkhurana3.github.io/AushadhiTrack/"><img src="./aushadhitrack.png" width="100%" alt="AushadhiTrack start page: the latest hash-chained ledger records and a check that every record still verifies" /></a>
       <h3>💊 AushadhiTrack</h3>
-      <p>Smart India Hackathon 2026 prototype. A medicine-integrity network for Jan Aushadhi Kendras, with role-based workspaces for coordinators, vendors and receivers, and QR-based receipt verification.</p>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css&logoColor=white" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+      <p>Smart India Hackathon 2026 prototype (SIH26198) that follows Jan Aushadhi medicine from warehouse to patient. A SHA-256 hash-chained ledger, seven explainable fraud rules, an Isolation Forest that catches patterns the rules miss, and Ed25519-signed QR receipts patients can check in English or Hindi.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" />
+      <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white" />
+      <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white" />
       <br /><br />
       <a href="https://mkhurana3.github.io/AushadhiTrack/"><img src="https://img.shields.io/badge/🔗%20Live%20Demo-F472B6?style=flat" /></a>
       <a href="https://github.com/Mkhurana3/AushadhiTrack"><img src="https://img.shields.io/badge/📁%20Repo-30363D?style=flat" /></a>
